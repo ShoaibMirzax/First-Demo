@@ -1,4 +1,6 @@
 # First-Demo
-This is first Repo, just to understand
+This is the first Repo, just to understand
 <br> 
-Here tell details about code
+Here are details about the code
+<br>
+Author - Shoaib Mirza
